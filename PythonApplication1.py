@@ -15,3 +15,5 @@ print("Result = ",res);
 if choice==2:
     res=num1+num2;
 print("result = ",res);
+
+print("Success! Project pushed to github.");
